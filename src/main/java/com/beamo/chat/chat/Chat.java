@@ -1,4 +1,4 @@
-package com.beamo.chat;
+package com.beamo.chat.chat;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

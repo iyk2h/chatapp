@@ -1,7 +1,6 @@
-package com.beamo.chat;
+package com.beamo.chat.chat;
 
 import lombok.RequiredArgsConstructor;
-import org.springframework.data.mongodb.UncategorizedMongoDbException;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;

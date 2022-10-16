@@ -1,4 +1,4 @@
-package com.beamo.chat;
+package com.beamo.chat.chat;
 
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
