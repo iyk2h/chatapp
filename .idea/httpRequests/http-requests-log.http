@@ -1,3 +1,9 @@
+GET http://localhost:8080/sender/test/receiver/sar
+
+<> 2022-10-16T223900.500.json
+
+###
+
 GET http://localhost:8080/sender/test1/receiver/sar
 
 <> 2022-10-15T235603.500.json

@@ -4,3 +4,7 @@ spring:
       host: localhost
       port: 27017
       database: chatdb
+jwt:
+  secret: asklfjeijisdfklwnelk1239uasd89guy
+server:
+  port: 3999
