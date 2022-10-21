@@ -6,5 +6,6 @@ spring:
       database: chatdb
 jwt:
   secret: asklfjeijisdfklwnelk1239uasd89guy
+  expiration: 28800
 server:
   port: 3999
